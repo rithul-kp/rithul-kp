@@ -9,12 +9,11 @@
 ---
 
 ### 🧑‍💻 About Me
-
-- Passionate about developing robust and scalable software solutions  
-- Focused on writing clean, maintainable, and efficient code  
-- Enthusiast of problem-solving and system architecture  
-- Lifelong learner always exploring new technologies and best practices  
-- Open to collaborations, mentorship, and growth opportunities  
+- Building solutions that are as scalable as they are impactful.
+- Crafting code that’s clean, efficient, and built to last.
+- Turning problems into possibilities with precision and logic.
+- Driven by curiosity, guided by innovation, and fueled by growth.
+- Always ready to collaborate, create, and inspire. 
 
 ---
 
@@ -38,8 +37,6 @@
 #### Tools & Platforms  
 - Git & GitHub  
 - VS Code  
-- Docker (learning)  
-- Figma (UI/UX Design)  
 
 ---
 
@@ -49,18 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=transparent" width="48%" />
   <img src="https://streak-stats.demolab.com?user=yourgithubusername&theme=transparent" width="48%" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-#### 🟢 ProjectName1  
-Brief description highlighting what it does and tech stack used.  
-Tech: React, Node.js, MongoDB  
-
-#### 🟣 ProjectName2  
-Brief description highlighting the purpose and key features.  
-Tech: Python, Flask, PostgreSQL  
 
 ---
 
