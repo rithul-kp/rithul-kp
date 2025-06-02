@@ -42,9 +42,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/rithul-kp&show_icons=true&theme=transparent" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=https://github.com/rithul-kp&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rithul-kp&show_icons=true&theme=transparent" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=rithul-kp&theme=transparent" width="48%" />
 </p>
+
 
 ---
 
