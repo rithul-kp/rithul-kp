@@ -64,6 +64,9 @@
    <a href="https://www.instagram.com/rit.hullll" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+    <a href="https://www.facebook.com/share/1AZEUhs7gd/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 ---
