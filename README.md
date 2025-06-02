@@ -20,8 +20,7 @@
 ### 🛠 Tech Stack
 
 #### Languages  
-- JavaScript (ES6+)  
-- Python  
+- JavaScript (ES6+)   
 - HTML5  
 - CSS3  
 
