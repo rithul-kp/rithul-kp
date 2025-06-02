@@ -52,10 +52,10 @@
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/rithul-kp-520930340/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:rithulkpcoc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://twitter.com/yourtwitter" target="_blank">
